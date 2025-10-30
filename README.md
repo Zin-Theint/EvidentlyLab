@@ -50,12 +50,4 @@ Part 2 — Explore MLflow UI
 
 Start the MLflow tracking UI locally:
 mlflow server --host 127.0.0.1 --port 8080
-
-Part 3 — Deliverables
-
-Submit a short PDF report (max 2 pages) containing:
-A brief description of your model(s), key features, and tracked metrics.
-1–2 screenshots from MLflow showing your metrics/plots.
-1 screenshot from the Evidently HTML report highlighting any data or target drift.
-How might that affect model performance? What would you do next in production?
 ```
